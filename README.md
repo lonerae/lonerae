@@ -1,6 +1,4 @@
-- Hello, I’m lonerae!
-- I’m interested in Android development, and Java generally.
-- I’m currently learning Networking in Java, HTML and CSS, as well as how to use Linux effectively haha
+I'm lonerae, an aspiring Java developer. I have finished my undergrad on Mathematics and currently waiting for my postgraduate on Computer Science to start.
 
 <!---
 lonerae/lonerae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

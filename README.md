@@ -1,10 +1,11 @@
+I'm lonerae, an aspiring software developer!
+
 ## About me
 
-- I'm lonerae, an aspiring software developer.
 - Graduate of the Mathematics Department of National University of Athens
 - Postgraduate student on Computer Science in University of Piraeus
 
-## Ongoing Projects
+### Ongoing Projects
 
 - Multiplayer social-deduction android game, built on libGDX framework
 - Front- and back-end development of e-Commerce site

@@ -1,9 +1,14 @@
 ## About me
 
-- I'm lonerae, an aspiring Java developer.
-- I have finished my undergrad on Mathematics and currently waiting for my postgraduate on Computer Science to start.
-- Main interests are Java Programming and Android Development.
-- Currently working on a multiplayer social-deduction game running on Android OS.
+- I'm lonerae, an aspiring software developer.
+- Graduate of the Mathematics Department of National University of Athens
+- Postgraduate student on Computer Science in University of Piraeus
+
+## Ongoing Projects
+
+- Multiplayer social-deduction android game, built on libGDX framework
+- Front- and back-end development of e-Commerce site
+- Firmware configuration (Marlin) for a homemade 3d-Printer
 
 <!---
 lonerae/lonerae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

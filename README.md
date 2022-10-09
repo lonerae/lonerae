@@ -3,7 +3,6 @@ I'm lonerae, an aspiring software developer!
 ## About me
 
 - Graduate of the Mathematics Department of National University of Athens
-- Postgraduate student on Computer Science in University of Piraeus
 
   ### Ongoing Projects
   

@@ -1,7 +1,7 @@
 ## About me
 
 - Graduate of the Mathematics Department of National University of Athens
-- Post-Graduate Computer-Science Student in University of Piraeus
+- Postgraduate in the Computer Science Studies of University of Piraeus
 
   ### Functioning Projects (still getting updated)
   

@@ -1,5 +1,3 @@
-<h1 align="center">Hey, I'm lonerae!</h1>
-
 - Graduate of the Mathematics Department of National University of Athens<br>
 - Postgraduate Student in the Computer Science Department of University of Piraeus<br>
 - Java Backend Developer

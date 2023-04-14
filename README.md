@@ -9,9 +9,8 @@
 | Title | Description |
 | --- | --- |
 | [nito](https://github.com/lonerae/nito) | an Android social-deduction game for people gathered together |
-| [texas-hold-em](https://github.com/lonerae/texas-hold-em) | a Python poker desktop app with AI opponents and GUI |
+| [psyche](https://github.com/lonerae/psyche) | a Javascript Diablo-like single-player game |
 | [ecommerce-template](https://github.com/lonerae/ecommerce-template) | template for an online shop (frontend & backend) |
-| [graph-traversals](https://github.com/lonerae/graph-traversals) | Prolog scripts for different shortest-path algorithms |
 
 🌱 ***Currently learning*** 
 
